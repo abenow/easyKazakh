@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Easy Kazakh</string>
+
+    <string name="IamEngineer">Я инженер</string>
+    <string name="WeAreEngineers">Мы инженеры</string>
+
+    <string name="sleep_tab_day_heading">Мен</string>
+    <string name="sleep_tab_week_heading">Сен</string>
+    <string name="sleep_tab_month_heading">Сiз</string>
+    <string name="sleep_tab_six_months_heading">Ол</string>
+</resources>
